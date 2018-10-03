@@ -11,3 +11,4 @@ Curent maintainers:
 
 - Jason Williams @JasonJWilliamsNY (please email to join - williams at cshl dot edu)
 - Naupaka Zimmerman @naupaka
+- Ahmed Moustafa @ahmedmoustafa
